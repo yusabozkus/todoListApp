@@ -6,21 +6,21 @@ Bu, React Native kullanılarak oluşturulmuş basit bir todo list uygulamasıdı
 
 1. Projeyi kopyalamak için terminale aşağıdaki komutu girin:
 
-git clone https://github.com/kullanici/proje-adı.git
+```git clone https://github.com/yusabozkus/todoListApp.git```
 
 2. Proje dizinine gidin:
 
-cd proje-adı
+```cd todoListApp-main```
 
 3. Gerekli bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın:
 
-npm install
+```npm install```
 
 ## Kullanım
 
 Projeyi başlatmak için aşağıdaki komutu kullanın:
 
-npm start
+```npm start```
 
 Ardından, Expo CLI veya emülatör kullanarak projenizi önizleyebilirsiniz.
 
